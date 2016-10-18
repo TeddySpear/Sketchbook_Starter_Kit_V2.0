@@ -1,5 +1,4 @@
-// ctrl-shift-b to build
-// ctrl-shift-p, run tasks, --upload to run on arduino
+// Sketch that outputs the temperature in degrees Farenheight on a LCD screen
 
 #include <Wire.h>
 #include "rgb_lcd.h"
